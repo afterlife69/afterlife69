@@ -101,7 +101,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c9s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=afterlife69&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -109,4 +109,4 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=c9s&&style=flat-square" align="center" />
 </div>  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=afterlife69&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afterlife69&show_icons=true&theme=radical) -->
