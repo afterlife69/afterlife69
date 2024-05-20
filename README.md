@@ -107,6 +107,6 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=c9s&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=afterlife69&&style=flat-square" align="center" />
 </div>  
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=afterlife69&show_icons=true&theme=radical) -->
